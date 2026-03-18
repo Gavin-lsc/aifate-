@@ -1,6 +1,6 @@
 # AIFATE 运势测算 Web 应用
 
-![Version](https://img.shields.io/badge/version-V0.2.1-purple)
+![Version](https://img.shields.io/badge/version-V0.2.2-purple)
 ![Next.js](https://img.shields.io/badge/Next.js-14+-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -49,7 +49,8 @@ npm run dev
 
 ### 访问应用
 
-打开浏览器访问：`http://localhost:3000`
+- **在线体验**: [https://aifate.netlify.app](https://aifate.netlify.app)
+- **本地开发**: 打开浏览器访问 `http://localhost:3000`
 
 ## 项目结构
 
@@ -161,6 +162,12 @@ AIFATE Team
 - 问题反馈：[Issues]
 
 ## 更新日志
+
+### V0.2.2 (2026-03-18)
+- 完成所有 16 个开发板块
+- 完成集成测试验证
+- 配置 Netlify 自动部署
+- 在线体验：https://aifate.netlify.app
 
 ### V0.2.1 (2026-03-18)
 - 增加 Mock 数据文件
