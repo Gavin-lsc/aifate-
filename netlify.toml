@@ -2,10 +2,7 @@
   command = "npm run build"
   publish = "out"
 
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+# Next.js App Router 静态导出不需要 SPA 重定向规则
 
 [build.environment]
   NODE_VERSION = "18"
