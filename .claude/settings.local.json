@@ -6,7 +6,8 @@
       "Bash(timeout 30 npm run dev)",
       "Bash(npm run:*)",
       "Bash(npm install:*)",
-      "Bash(vercel:*)"
+      "Bash(vercel:*)",
+      "Bash(npm list:*)"
     ]
   }
 }
